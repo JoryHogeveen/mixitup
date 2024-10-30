@@ -27,6 +27,7 @@ Demos for the Pagination and MultiFilter extensions can be found linked to in th
 
 # MixItUp 3
 
+[![Latest Release](https://img.shields.io/npm/v/mixitup.svg?style=flat-square)](https://www.npmjs.com/package/mixitup)
 [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/gh/patrickkunka/mixitup/badge?style=rounded)](https://www.jsdelivr.com/package/gh/patrickkunka/mixitup)
 
 MixItUp is a high-performance, dependency-free library for animated DOM manipulation, giving you the power to filter, sort, add and remove DOM elements with beautiful animations.
