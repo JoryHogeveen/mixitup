@@ -4,7 +4,7 @@
 
 As MixItUp turns 10 years old (and having remained unchanged since ~2018) it will be moving to a **fully open source** and publicly available model. This means that from 1st November 2024, you no longer need to purchase a license for commercial use.
 
-Additionally, the MixItUp project and its extensions will become **fully archived** meaning that no future changes will be made. MixItUp has been stable for many years and remains in use across tens of thousands of web sites and applications worldwide. If you wish to use it on a brand-new project and it meets your needs, then you should feel confident in doing so.
+Additionally, the MixItUp project and its extensions will become **fully archived** meaning that no future changes will be made. MixItUp has been stable for many years and remains in use across tens of thousands of web sites and applications worldwide. If you wish to use it on a brand-new project and it meets your needs, then you should feel confident in doing so provided you do not require support.
 
 ### Pagination and MultiFilter Extensions
 
